@@ -1,3 +1,3 @@
 'use strict';
 
-import mongoose from ''
+import mongoose from 'mongoose';
